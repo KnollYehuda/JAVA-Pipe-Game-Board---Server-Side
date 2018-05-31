@@ -8,5 +8,5 @@ Solving algorithms:
 - Best First Search
 - Hill Climbing
 
-In the project I also developed a system that provide solutions for same-format games (implements the main Interface) 
+In the project I developed a system that provides solutions for same-format games (implements the main Interface)
 For more information contact me - knollyuda@gmail.com
