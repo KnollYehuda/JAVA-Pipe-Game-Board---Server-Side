@@ -12,4 +12,4 @@ Solving Algorithms:
 - Hill Climbing
 
 In the project I also developed a system that provide solutions for same-format games (implements Searchable<T> Interface) 
-For more information contact me - knollenson@gmail.com
+For more information contact me - knollyuda@gmail.com
